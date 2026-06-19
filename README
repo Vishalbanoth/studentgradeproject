@@ -1,0 +1,73 @@
+Student Grade Calculator
+📖 Overview
+
+The Student Grade Calculator is a Java-based console application that calculates a student's total marks, average percentage, grade, and pass/fail status based on marks entered for multiple subjects. The application provides an easy and efficient way to evaluate academic performance.
+
+This project demonstrates fundamental Java programming concepts such as user input handling, conditional statements, arithmetic operations, and decision-making.
+
+✨ Features
+📝 Accepts student name as input
+📚 Takes marks for multiple subjects
+➕ Calculates total marks obtained
+📊 Calculates average percentage
+🏅 Assigns grades automatically
+✅ Displays Pass/Fail status
+💻 User-friendly console interface
+🛠️ Technologies Used
+Java
+Visual Studio Code (VS Code)
+Git
+GitHub
+📂 Project Structure
+Student-grade-calculator/
+│
+└── StudentGradeCalculator.java
+🚀 How to Run
+Compile the Program
+javac StudentGradeCalculator.java
+Execute the Program
+java StudentGradeCalculator
+📸 Sample Output
+===== Student Grade Calculator =====
+
+Enter Student Name: Vishal
+
+Enter marks for Subject 1: 85
+Enter marks for Subject 2: 90
+Enter marks for Subject 3: 78
+Enter marks for Subject 4: 88
+Enter marks for Subject 5: 92
+
+===== Result =====
+
+Student Name : Vishal
+Total Marks  : 433
+Average      : 86.6
+Grade        : B
+Status       : Pass
+📊 Grade Criteria
+Average Percentage	Grade
+90 - 100	A
+80 - 89	B
+70 - 79	C
+60 - 69	D
+Below 60	F
+🎯 Learning Outcomes
+Java Programming Fundamentals
+User Input Handling using Scanner
+Conditional Statements (if-else)
+Arithmetic Operations
+Grade Calculation Logic
+Problem Solving Skills
+Version Control using Git and GitHub
+🔮 Future Enhancements
+Support for any number of subjects
+Percentage and CGPA conversion
+Student Report Card Generation
+File Storage for Student Records
+Graphical User Interface (GUI)
+👨‍💻 Author
+
+Vishal Banoth
+
+GitHub: Vishal Banoth GitHub Profile
